@@ -1,3 +1,6 @@
+function funky() {
+return "tola"}
+funky ();
 //
 nodejs index.nodejsHi! 👋
 
